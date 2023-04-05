@@ -1,0 +1,3 @@
+# Crib Session Handler
+
+This application was designed to manage Crib sessions using Google Spreadsheets. When a student's grade does not meet their expectations, they can submit a query using a Google Form, which will then be saved to a spreadsheet. A dashboard was created to extract and present the relevant data to the graders. Each grader will review the student's query and enter their response and any adjustments made to the grades in the same spreadsheet. The dashboard also includes a `notify student` checkbox that graders can use to instantly notify the student of their response. An automated email will be sent to the student containing their query and the grader's response, as well as a link to another Google Form if the student is dissatisfied with the response.
